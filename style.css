@@ -1,0 +1,20 @@
+#otpverification,
+#verifyotp,
+#resend_opt {
+  display: none;
+}
+.countdown {
+  display: table;
+  width: 100%;
+  text-align: left;
+}
+#resend_opt {
+  text-decoration: underline;
+}
+.headline {
+  text-align: center;
+  font-size: 30px;
+}
+.btn {
+  margin-top: 20px;
+}
